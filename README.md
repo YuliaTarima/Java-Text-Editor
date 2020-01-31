@@ -1,2 +1,2 @@
 # Java-Text-Editor
-Data Structures and Performance by UC San Diego
+Based on Data Structures and Performance course by UC San Diego
